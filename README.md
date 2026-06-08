@@ -1,12 +1,11 @@
-# Umaya De Silva — Personal Portfolio
+# Umaya De Silva - Personal Portfolio
 
 A clean, modern personal portfolio website built with HTML, CSS, and JavaScript. Showcasing my skills, featured projects, and background as a Computing student.
 
 ## 🌐 Live Site
 
-[View Portfolio](https://umayadesilva.github.io/umaya-portfolio/)
+[View Portfolio](https://shashindi20232852-dot.github.io/Portfolio/)
 
-> *(Update the link above with your actual GitHub username)*
 
 ## ✨ Features
 
@@ -19,9 +18,9 @@ A clean, modern personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## 🛠️ Tech Stack
 
-- **HTML5** — Semantic markup
-- **CSS3** — Custom properties, Flexbox, Grid, animations
-- **JavaScript** — Scroll effects, interactivity
+- **HTML5** - Semantic markup
+- **CSS3** - Custom properties, Flexbox, Grid, animations
+- **JavaScript** - Scroll effects, interactivity
 
 ## 📁 Project Structure
 
